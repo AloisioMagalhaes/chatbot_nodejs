@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/AloisioMagalhaes/chatbot_nodejs/issues"
   },
-  "homepage": "https://github.com/AloisioMagalhaes/chatbot_nodejs#readme"
+  "homepage": "https://github.com/AloisioMagalhaes/chatbot_nodejs#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jest": "^28.1.2",
+    "next": "^12.2.2",
+    "react-query": "^3.39.1"
+  }
 }
